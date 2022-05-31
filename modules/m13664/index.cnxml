@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Kapitel 2</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d0aa9955-a95a-4f6a-a899-2ddc0e2fc2df</md:uuid>
+</metadata>
+<content>
+<section id="id28439278">
+<title>Kapitel2</title>
+<section id="id17086363">
+<title>Das soll erst einmal ein Test zur Erstellung des Moduls mit
+MS-Word sein</title>
+<para id="id28454697">
+<term>Ein Beispielprogramm:</term>
+</para>
+<para id="id28658372">
+<code>10 doSomething</code>
+</para>
+<para id="id28877024">
+<code>20 wait …</code>
+</para>
+<para id="id28529575">
+<code>30 if … then … else</code>
+</para>
+<para id="id23960657">
+<quote display="block" id="idm1024448">Was ist daran falsch?</quote>
+</para>
+<figure id="id27930252">
+<media id="idp536208" alt=""><image src="../../media/Graphic1.png" mime-type="image/png"/></media>
+</figure>
+</section>
+</section>
+</content>
+</document>
