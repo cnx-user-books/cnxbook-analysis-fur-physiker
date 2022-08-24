@@ -1,3 +1,42 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10359</md:content-id>  <md:title>Analysis für Physiker</md:title>      <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>  <md:language>de-de</md:language>      <md:uuid>90ac6156-c26f-4ba9-b08a-17aa8d72fa3c</md:uuid>
-<md:slug>analysis-fur-physiker</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Semester 1</md:title>                                <col:content>                                  <col:subcollection>        <md:title>Kapitel 1</md:title>                                <col:content>                    <col:module document="m13663"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kapitel 2</md:title>                                <col:content>                    <col:module document="m13664"/>                          </col:content>      </col:subcollection>            </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Semester 2</md:title>                                <col:content>                  </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Semester 3</md:title>                                <col:content>                  </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Semester 4</md:title>                                <col:content>                  </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Mirko K&#xE4;mpf">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10359</md:content-id>
+    <md:title>Analysis f&#xFC;r Physiker</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>de-de</md:language>
+    <md:uuid>90ac6156-c26f-4ba9-b08a-17aa8d72fa3c</md:uuid>
+    <md:slug>analysis-fur-physiker</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Semester 1</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Kapitel 1</md:title>
+          <col:content>
+            <col:module document="m13663"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Kapitel 2</md:title>
+          <col:content>
+            <col:module document="m13664"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Semester 2</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Semester 3</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Semester 4</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
